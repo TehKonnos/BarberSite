@@ -381,7 +381,7 @@ margin-bottom: 35px;
     padding-bottom: 60px;
  }
  .product-top:hover .overlay{
-    opacity: 1;
+    opacity: 0;
     transition: 0.5s;
     cursor: pointer;
  }
