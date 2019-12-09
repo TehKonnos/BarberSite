@@ -56,7 +56,7 @@ i:hover{
 
 .nav-bg-color{
 
-background-color: red;
+background-color: #6F0606;
 
 }
 .nav-contain{
@@ -65,7 +65,7 @@ margin-bottom: 35px;
 
 }
 .navbar img{
-    width: 200px;
+    width: 50px;
 }
 .nav-list .menu {
     color: #333333;
@@ -136,17 +136,10 @@ margin-bottom: 35px;
     color: white;
 }
 .first-slider {
-    min-height: 800px;
-
+    min-height: 500px;
     background-image: url('../max-image/bussines-1.jpg');
     background-size: cover;
-}
-.first-slider-1 {
-    min-height: 800px;
-
-    background-image: url('../max-image/bussines-2.jpg');
-    background-size: cover;
-}
+  }
 
 .second{
     color: #9fd7ef!important;
@@ -403,19 +396,19 @@ margin-bottom: 35px;
 
 }
 .product-top-1{
-      background-image: url('../max-image/post-card.jpg');
+      background-image: url('../max-image/Clay.jpg');
       background-size: cover;
 }
 .product-top-2{
-    background-image: url('../max-image/bussines-card.jpg');
+    background-image: url('../max-image/after.jpg');
     background-size: cover;
 }
 .product-top-3{
-    background-image: url('../max-image/post-card-2.jpg');
+    background-image: url('../max-image/foam.jpg');
     background-size: cover;
 }
 .product-top-4{
-    background-image: url('../max-image/bussines-card-2.jpg');
+    background-image: url('../max-image/tools.jpg');
     background-size: cover;
 }
 .product-top button{
@@ -597,7 +590,7 @@ display: flex;
 }
 
 .col-over:hover .col-overlay{
-    opacity: 1;
+    opacity: 0;
     transition: 0.5s;
     margin:  auto;
     background-color: rgba(246, 90, 167, 0.7);
@@ -718,30 +711,7 @@ padding: 15px 35px;
         min-height: 450px;
         background-color: #f9f9f9;
     }
-.item-bg-1{
-    background-image: url('../max-image/our-team.jpg');
-    background-size: cover;
-}
-.item-bg-2{
-    background-image: url('../max-image/our-team-1.jpg');
-    background-size: cover;
-}
-.item-bg-3{
-    background-image: url('../max-image/our-team-3.jpg');
-    background-size: cover;
-}
-.item-bg-4{
-    background-image: url('../max-image/our-team-2.jpg');
-    background-size: cover;
-}
-.item-bg-5{
-    background-image: url('../max-image/our-team-4.jpg');
-    background-size: cover;
-}
-.item-bg-6{
-    background-image: url('../max-image/our-team-5.jpg');
-    background-size: cover;
-}
+
 .details-link{
     position: absolute;
     top: 45%;
